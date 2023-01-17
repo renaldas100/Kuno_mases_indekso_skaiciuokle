@@ -48,6 +48,9 @@ if ($kmiRezultatas >= 40) {
             Jūsų kūno masės indeksas (KMI) yra <b style='font-size: 20px'><?=round($kmiRezultatas,2)?></b> <br>
             <?=$reiksme?>
         </div>
+        <div class="image">
+            <img src="./assets/image/kmi.png" height="220px" title="Logo of a company" alt="Logo of a company" />
+        </div>
         <div class="text button2">
             <a href="index.php">Skaičiuoti iš naujo</a>
         </div>
