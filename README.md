@@ -1,4 +1,4 @@
-# Kuno masės indekso skaičiuoklė
+# Kūno masės indekso skaičiuoklė
 Sukurta internetinė KMI skaičiuoklė kuri susideda iš dviejų (php) failų : Formos duomenims išsiųsti, ir rezultato atvaizdavimo.
 Išsiuntimo forma turi du laukus:
 
