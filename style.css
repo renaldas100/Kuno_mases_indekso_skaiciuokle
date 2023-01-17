@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+.body{
+    /*background-color: #e8f2f4;*/
+    height: 100vh;
+    background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.titleText{
+    text-align: center;
+    padding: 50px 0;
+    line-height: 50px;
+    color: #30d5f2;
+}
+
+.titleTextStrong{
+    text-transform: uppercase;
+
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.input{
+    max-width: 200px;
+    min-height: 40px;
+    flex-grow: 1;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: #30d5f2;
+
+}
+
+.button{
+    padding: 0 10px;
+}
+
+.text{
+    color: #30d5f2;
+    line-height: 2;
+}
+
+.text a {
+    text-decoration: none;
+    color: #30d5f2;
+}
+
+.button2{
+    margin: 50px auto;
+    max-width: 170px;
+    border: #1d1941 solid 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button2 a{
+    padding: 15px 0;
+    flex-grow: 1;
+    text-align: center;
+    /*align-self: end;*/
+}
+
+.button2 a:hover{
+    background-color: #1d1941;
+    cursor: pointer;
+}
