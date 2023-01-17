@@ -1,5 +1,5 @@
-# Kuno_mases_indekso_skaiciuokle
-## Sukurta internetinė KMI skaičiuoklė kuri susideda iš dviejų (php) failų : Formos duomenims išsiųsti, ir rezultato atvaizdavimo.
+# Kuno masės indekso skaičiuoklė
+Sukurta internetinė KMI skaičiuoklė kuri susideda iš dviejų (php) failų : Formos duomenims išsiųsti, ir rezultato atvaizdavimo.
 Išsiuntimo forma turi du laukus:
 
 ugis (cm.)
