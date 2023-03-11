@@ -7,6 +7,7 @@
 
 .body{
     /*background-color: #e8f2f4;*/
+    /*background-color: green;*/
     /*height: 100vh;*/
     background: #0f0c29;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to top, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
@@ -16,7 +17,7 @@
 
 .container{
     max-width: 800px;
-    min-height: 700px;
+    min-height: 1000px;
     margin: 0 auto;
 }
 
